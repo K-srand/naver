@@ -29,6 +29,9 @@ webtoon
 
 
 ## 메일페이지 추가
+
+<a hred="mail.html"> 메일 페이지 </a>
+=======
 <a fred="mail.html"> 메일 페이지 </a>
 =======
 
