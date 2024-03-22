@@ -15,4 +15,4 @@ webtoon
 <a href="cafe.html"> 카페 페이지 </a>
 
 ## 메일페이지 추가
-<a fred="mail.html"> 메일 페이지 </a>
+<a hred="mail.html"> 메일 페이지 </a>
